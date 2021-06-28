@@ -364,6 +364,15 @@ header .navbar ul li a:hover {
 
 /* Contact Section Ends */
 
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
+
 /* Media Queries */
 
  @media (max-width:1200px) {
